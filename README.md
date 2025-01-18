@@ -42,4 +42,3 @@ pip install -r requirements.txt
 
 ## Credits
 This project is part of the Coursera Data Science Capstone course.
-```
